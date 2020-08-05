@@ -1,0 +1,49 @@
+body, html{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	height: 50px;
+	background-color: orange;
+}
+
+ul{
+	width: auto;
+	float: right;
+	margin-top: 0px;
+}
+
+li{
+	display: inline-block;
+	padding: 15px;
+}
+
+a{
+	text-align: center;
+	text-decoration: none;
+}
+
+.wrapper1{
+	margin-left: 120px;
+	/*overflow: hidden;*/
+
+}
+
+.wrapper2{
+	margin-left: 120px;
+	/*overflow: hidden;*/
+	margin-top: 10px;
+
+}
+
+.blog{
+	float: left;
+	width: 40%;
+
+}
+
+.img{
+	float: right;
+	width: 55%;
+}
